@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "任务详情",
+  "navigationBarBackgroundColor": "#febd38",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "commit-task-item": "/components/commitTaskItem/commitTaskItem",
+    "loading": "/components/loading/loading",
+    "nodata-page": "/components/nodata/nodata"
+  }
+}

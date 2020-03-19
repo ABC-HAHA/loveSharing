@@ -1,0 +1,1 @@
+<view class="data-v-bf70604e"><image class="agent-item data-v-bf70604e" src="../../static/problem2.png" data-event-opts="{{[['tap',[['myTeam',['$event']]]]]}}" bindtap="__e"></image><image class="agent-item data-v-bf70604e" src="../../static/problem1.png" data-event-opts="{{[['tap',[['toAnswer',['$event']]]]]}}" bindtap="__e"></image></view>

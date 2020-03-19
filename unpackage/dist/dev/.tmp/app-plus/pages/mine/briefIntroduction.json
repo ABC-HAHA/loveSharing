@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "如何赚佣",
+  "navigationBarBackgroundColor": "#febd38",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "no-data": "/pages/mine/nodata"
+  }
+}

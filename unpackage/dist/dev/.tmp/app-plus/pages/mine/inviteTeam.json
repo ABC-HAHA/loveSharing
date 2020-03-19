@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "邀请团队",
+  "navigationBarBackgroundColor": "#febd38",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-popup": "/pages/mine/uni-popup",
+    "share-page": "/pages/mine/share"
+  }
+}

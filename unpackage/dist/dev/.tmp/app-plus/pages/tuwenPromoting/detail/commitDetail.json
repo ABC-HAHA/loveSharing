@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "提交任务详情",
+  "navigationBarBackgroundColor": "#febd38",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-swiper-dot": "/components/uni-swiper-dot/uni-swiper-dot",
+    "h-form-alert": "/components/h-form-alert/h-form-alert",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "share-page": "/components/share/share"
+  }
+}

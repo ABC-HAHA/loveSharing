@@ -1,0 +1,97 @@
+{
+  "pages": [
+    "pages/tarbar/index/index",
+    "pages/tarbar/task/task",
+    "pages/tarbar/rank/rank",
+    "pages/tarbar/mine/mine",
+    "components/loading/loading",
+    "components/h-form-alert/h-form-alert",
+    "pages/help/help",
+    "pages/help/leadDetail/leadDetail",
+    "pages/help/loginDetail/loginDetail",
+    "pages/help/getDetail/getDetail",
+    "pages/help/infoDetail/infoDetail",
+    "pages/tuwenPromoting/tuwenPromoting",
+    "pages/tuwenPromoting/commitTuwenPromoting",
+    "pages/tuwenPromoting/detail/detail",
+    "pages/tuwenPromoting/detail/commitDetail",
+    "pages/lianjiePromoting/lianjiePromoting",
+    "pages/lianjiePromoting/commitLianjiePromoting",
+    "pages/lianjiePromoting/detail/detail",
+    "pages/lianjiePromoting/detail/commitDetail",
+    "pages/shipinPromoting/shipinPromoting",
+    "pages/shipinPromoting/commitShipinPromoting",
+    "pages/shipinPromoting/detail/detail",
+    "pages/shipinPromoting/detail/commitDetail",
+    "components/uni-swiper-dot/uni-swiper-dot",
+    "pages/mine/login",
+    "pages/mine/register",
+    "pages/mine/forgetPwd",
+    "pages/mine/briefIntroduction",
+    "pages/mine/alipay",
+    "pages/mine/mobileNumber",
+    "pages/mine/invitationCode",
+    "pages/mine/backNumber",
+    "pages/mine/auditPage",
+    "pages/mine/personalPage",
+    "pages/mine/myTeam",
+    "pages/mine/setting",
+    "pages/mine/myRecord",
+    "pages/mine/withdrawal",
+    "pages/mine/inviteTeam",
+    "pages/mine/myTaskList",
+    "pages/mine/rule",
+    "pages/task/taskList",
+    "pages/task/commitTaskList",
+    "pages/mine/agent",
+    "pages/mine/problem",
+    "pages/mine/answer",
+    "pages/mine/feedback"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "爱分享",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "rgba(125,125,125,1)",
+    "selectedColor": "#404040",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/tarbar/index/index",
+        "iconPath": "static/homepage1.png",
+        "selectedIconPath": "static/homepage.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tarbar/task/task",
+        "iconPath": "static/task1.png",
+        "selectedIconPath": "static/task.png",
+        "text": "任务"
+      },
+      {
+        "pagePath": "pages/tarbar/rank/rank",
+        "iconPath": "static/ranking1.png",
+        "selectedIconPath": "static/ranking.png",
+        "text": "排行"
+      },
+      {
+        "pagePath": "pages/tarbar/mine/mine",
+        "iconPath": "static/my1.png",
+        "selectedIconPath": "static/my.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "爱分享",
+  "compilerVersion": "2.5.1",
+  "usingComponents": {}
+}

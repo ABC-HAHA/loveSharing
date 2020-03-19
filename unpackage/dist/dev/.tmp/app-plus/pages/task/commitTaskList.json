@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "提交任务",
+  "navigationBarBackgroundColor": "#febd38",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-popup": "/pages/mine/uni-popup",
+    "cmd-progress": "/components/cmd-progress/cmd-progress"
+  }
+}

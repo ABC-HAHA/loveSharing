@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的团队",
+  "navigationBarBackgroundColor": "#febd38",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "no-data": "/pages/mine/nodata"
+  }
+}

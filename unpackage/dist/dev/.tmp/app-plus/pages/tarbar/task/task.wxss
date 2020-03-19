@@ -1,0 +1,22 @@
+.swiper.data-v-55891078 {
+  height: 350rpx;
+}
+.swiper-list.data-v-55891078 {
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+  width: 710rpx;
+  height: 324rpx;
+}
+.task-list1.data-v-55891078 {
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+  width: 710rpx;
+  height: 255rpx;
+}
+.task-list.data-v-55891078 {
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+  width: 710rpx;
+  height: 218rpx;
+}
+

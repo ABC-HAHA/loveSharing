@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的记录",
+  "navigationBarBackgroundColor": "#febd38",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "no-data": "/pages/mine/nodata"
+  }
+}
